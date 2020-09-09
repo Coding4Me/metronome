@@ -1,0 +1,4 @@
+include ':app'
+include ':metronome_lib'
+
+rootProject.name = "metronome"
